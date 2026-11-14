@@ -3,10 +3,12 @@
     "id": "979842034288",
     "restype": "watchface",
     "name": "光感液态（样式2）",
-    "description": "iOS 26 的液态玻璃质感移植到了手环上，3 种时钟样式配 4 张壁纸，可随时切换，后续还会继续补充壁纸。",
+    "description": "IOS26同款液态玻璃，全新表盘美学\n\n表盘包括3种时钟样式，4张来自unplash的精美壁纸，支持在手环上随意切换。后续将更新更多壁纸，购买后可免费领取",
     "preview": [
-      "media/cover.jpg",
-      "media/preview.png"
+      "media/1DY.png",
+      "media/2DY.png",
+      "media/3DY.png",
+      "media/4DY.png"
     ],
     "icon": "media/icon.png",
     "cover": "media/cover.jpg",
@@ -46,29 +48,29 @@
       "versionCode": 65538
     },
     "xmb9p": {
-      "version": "1.0.1",
-      "file_name": "downloads/光感液态-band9pro_10pro-v1.0.1.bin",
-      "versionCode": 65537
+      "version": "1.0.2",
+      "file_name": "downloads/光感液态-336-包2-v1.0.2.bin",
+      "versionCode": 65538
     },
     "xmb10p": {
-      "version": "1.0.1",
-      "file_name": "downloads/光感液态-band9pro_10pro-v1.0.1.bin",
-      "versionCode": 65537
+      "version": "1.0.2",
+      "file_name": "downloads/光感液态-336-包2-v1.0.2.bin",
+      "versionCode": 65538
     },
     "xmrw5": {
-      "version": "1.0.2",
-      "file_name": "downloads/光感液态-rw5-v1.0.2.bin",
-      "versionCode": 65538
+      "version": "1.0.3",
+      "file_name": "downloads/光感液态-432-包2-v1.0.3.bin",
+      "versionCode": 65539
     },
     "xmrw5xring": {
-      "version": "1.0.2",
-      "file_name": "downloads/光感液态-rw5-v1.0.2.bin",
-      "versionCode": 65538
+      "version": "1.0.3",
+      "file_name": "downloads/光感液态-432-包2-v1.0.3.bin",
+      "versionCode": 65539
     },
     "xmrw6": {
-      "version": "1.0.2",
-      "file_name": "downloads/光感液态-rw5-v1.0.2.bin",
-      "versionCode": 65538
+      "version": "1.0.3",
+      "file_name": "downloads/光感液态-432-包2-v1.0.3.bin",
+      "versionCode": 65539
     }
   },
   "ext": {
